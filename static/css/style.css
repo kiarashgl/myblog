@@ -1,12 +1,14 @@
 body, html {
     height: 100%;
     direction: rtl;
-    background: url('/static/images/back2.jpg') no-repeat center;
+    background: url('/static/images/back2.jpg')  center;
     background-size: cover;
 }
-
+p {
+    font-family: "B Koodak" !important;
+}
 #header {
-    height: 30%;
+    height: auto;
     background: url('/static/images/back.jpg') no-repeat center;
     background-size: cover;
 

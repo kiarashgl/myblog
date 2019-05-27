@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9da2dca4-ca2e-47da-8a0f-95531f8a38ba" name="ce" url="http://ce.sharif.edu">
-        <fileTransfer host="ce.sharif.edu" port="22" rootFolder="/home/bs96/kgolzadeh/public_html/rap" accessType="SFTP">
+        <fileTransfer host="ce.sharif.edu" port="22" rootFolder="/home/bs96/kgolzadeh/public_html/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>

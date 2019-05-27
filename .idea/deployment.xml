@@ -5,7 +5,7 @@
       <paths name="ce">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/rap" local="$PROJECT_DIR$" web="/~kgolzadeh" />
           </mappings>
         </serverdata>
       </paths>
